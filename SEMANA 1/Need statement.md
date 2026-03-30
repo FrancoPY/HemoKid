@@ -19,7 +19,6 @@ Una forma de detectar y cuantificar la anemia en niños menores de 5 años en el
 | :--- | :---: | :---: | :---: | :---: |
 | Niños 6-23 meses | < 7.0 | 7.0 - 9.4 | 9.5 - 10.4 | >= 10.5 |
 | Niños 24-59 meses | < 7.0 | 7.0 - 9.9 | 10.0 - 10.9 | >= 11.0 |
-*[cite: 16]*
 
 ### Fórmula de Ajuste por Altitud (CDCPNSS)
 Para alturas mayores a 500 m.s.n.m.[cite: 20]:
