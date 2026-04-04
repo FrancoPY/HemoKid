@@ -77,3 +77,8 @@ A partir del final del primer trimestre, el volumen plasmático aumenta más que
 | **Saturación de Transferrina** | Baja | Taxis de transporte vacíos |
 | **VCM** | Bajo | Microcitosis (Células pequeñas) |
 | **HCM / CHCM** | Bajo | Hipocromía (Células pálidas) |
+
+
+Milman Nils. Fisiopatología e impacto de la deficiencia de hierro y la anemia en las mujeres gestantes y en los recién nacidos/infantes. Rev. peru. ginecol. obstet.  [Internet]. 2012  [citado  2026  Abr  04] ;  58( 4 ): 293-312. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2304-51322012000400009&lng=es.
+
+A. Kumar, E. Sharma, A. Marley, M. A. Samaan, y M. J. Brookes, "Iron deficiency anaemia: pathophysiology, assessment, practical management," BMJ Open Gastroenterol., vol. 9, no. 1, p. e000759, ene. 2022, doi: 10.1136/bmjgast-2021-000759. 
